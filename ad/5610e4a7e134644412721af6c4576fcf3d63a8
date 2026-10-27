@@ -1,0 +1,21 @@
+src/content/docs/cloudflare-one/team-and-resources/app-library/custom-applications.mdx
+  s_b359c4674e794f::t_42054c82092f05 80-94
+src/content/docs/cloudflare-one/team-and-resources/app-library/index.mdx
+  s_b359c4674e794f::t_bd11ff71aba97f 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ad5610e4a7e134644412721af6c4576fcf3d63a8",
+  "prompts": {},
+  "sessions": {
+    "s_b359c4674e794f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e349025c-0b9a-412b-b600-65ecd5c94098",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "rahul <rbhati@cloudflare.com>"
+    }
+  }
+}
